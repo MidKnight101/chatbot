@@ -1,1 +1,1 @@
-# chatbot
+This repository contains the files used to implement an AI chatbot tasked with representing a fake company's product to the user. The user asks questions regarding the product, to which the chatbot will make attempts to solve. ChatBot API is used for this. A text file containing details on two versions of the fake product are also present.
